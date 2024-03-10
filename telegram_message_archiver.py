@@ -1,3 +1,4 @@
+# Script for archiving of telegram messages. Usfull for any subsewuent anaysis.
 from telegram_alerts import message_storage
 
 # Function to archive messages
@@ -6,7 +7,7 @@ def archive_messages():
     with open('telegram_message_archive.txt', 'w') as file:
         # Iterate over each message in the message_storage list
         for message in message_storage:
-            # Write the message details to the file
+            # Writing the message details to the file
             file.write(f"{message}\n")
 
 # Call the archive_messages function to execute archiving
