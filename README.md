@@ -24,7 +24,7 @@ The **Telegram Message Archiver** is a Python script designed to archive message
 
 4. **Access Archived Messages**: The archived messages will be stored in the `telegram_message_archive.txt` file in the root directory of the project. You can access this file to view the archived messages at any time.
 
-**CONTRIBUTING**
+**CONTRIBUTIONS**
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
