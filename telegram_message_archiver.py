@@ -1,4 +1,4 @@
-# Script for archiving of telegram messages. Usfull for any subsewuent anaysis.
+# Script for archiving of telegram messages. Usefull for any subsequent anaysis.
 from telegram_alerts import message_storage
 
 # Function to archive messages
